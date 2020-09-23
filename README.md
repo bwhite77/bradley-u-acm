@@ -4,3 +4,6 @@
 
 # Projects
 <h3> Chapter Website </h3>
+<h3> Discord Bot </h3>
+<h3> Snake - Reinforcement Learning </h3>
+

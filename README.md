@@ -4,7 +4,10 @@
 
 # Projects
 <h3> Chapter Website </h3>
-https://github.com/bwhite77/ACM-website
+https://github.com/bwhite77/bu-acm-website
 <h3> Discord Bot </h3>
+https://github.com/bwhite77/bu-acm-discord-bot
 <h3> Snake - Reinforcement Learning </h3>
+https://github.com/bwhite77/bu-acm-snake-rl
+
 

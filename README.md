@@ -7,7 +7,9 @@
 https://github.com/bwhite77/bu-acm-website
 <h3> Discord Bot </h3>
 https://github.com/bwhite77/bu-acm-discord-bot
-<h3> Snake - Reinforcement Learning </h3>
+<h3> Snake Game - Reinforcement Learning </h3>
 https://github.com/bwhite77/bu-acm-snake-rl
+<h3> Arduino Music Synthesizer </h3>
+https://github.com/bwhite77/bu_acm_arduino_music
 
 
